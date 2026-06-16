@@ -1,2 +1,28 @@
-# c887a3f0-grant-writing-management-goa
-Stop treating grant writing like a lottery and start managing it like a strategic objective — align every application with your mission, track progress, and hit your funding goals with a proven OKR framework.  This Notion template transforms grant writing from chaotic, deadline-driven scrambling into a structured, goal-oriented process. By integrat
+# Grant Writing & Management Goal Setting and OKR Framework Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gM5kD26HgaUg881Zid0j3P)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gM5kD26HgaUg881Zid0j3P)
+
